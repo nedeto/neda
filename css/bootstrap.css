@@ -187,11 +187,6 @@ font-size: 23px;
 font-weight:700;
 
 }
-.left_top img{
-  -moz-box-shadow: 10px 8px 21px #f0b2ee;
--webkit-box-shadow: 10px 8px 21px #f0b2ee;
-box-shadow: 10px 8px 21px #f0b2ee;
-}
 
 .left_center{
 color: #333333;
